@@ -1,6 +1,3 @@
-Here's a **README.md** file for your **Big Data Processing with Docker** project:  
-
----
 
 # **Big Data Processing with Docker**  
 
