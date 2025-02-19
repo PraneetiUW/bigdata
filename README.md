@@ -53,8 +53,5 @@ http://localhost:8888
 - Add PySpark-based ETL and ML workflows  
 - Implement Kubernetes for cluster orchestration  
 
-## **Contributions**  
-Feel free to submit pull requests or open issues for improvements! 🚀  
 
----
 
