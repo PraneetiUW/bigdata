@@ -45,10 +45,6 @@ Once running, open Jupyter Notebook in your browser:
 http://localhost:8888
 ```
 
-## **Future Enhancements**  
-- Automate data ingestion into HDFS  
-- Add PySpark-based ETL and ML workflows  
-- Implement Kubernetes for cluster orchestration  
 
 
 
